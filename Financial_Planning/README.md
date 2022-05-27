@@ -34,15 +34,15 @@ pip install pathlib
 pip install jupyter lab
 
 Installation Dependancies:
-!(https://github.com/Alexisg324/Financial_Planning_Tool/blob/main/Financial_Planning/Images/1.png)
+![](https://github.com/Alexisg324/Financial_Planning_Tool/blob/main/Financial_Planning/Images/1.png)
 
 ## Usage 
 
 As a User, I want to financially plan for retirement and emergencies by visualizing my current savings to determine emergency funds, as well as a performance of my retirement savings over 30 years.  
 
-!(https://github.com/Alexisg324/Financial_Planning_Tool/blob/main/Financial_Planning/Images/5-4-monte-carlo-line-plot.png)
+![](https://github.com/Alexisg324/Financial_Planning_Tool/blob/main/Financial_Planning/Images/5-4-monte-carlo-line-plot.png)
 
-!(https://github.com/Alexisg324/Financial_Planning_Tool/blob/main/Financial_Planning/Images/5-4-monte-carlo-histogram.png)
+![](https://github.com/Alexisg324/Financial_Planning_Tool/blob/main/Financial_Planning/Images/5-4-monte-carlo-histogram.png)
 
 ## Contributers
 
