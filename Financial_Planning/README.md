@@ -98,6 +98,6 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ## Workcited: 
 
-UCB-Coding-Bootcamp (2021-2022). Module 14. UC Berkeley Fintech Extension. https://courses.bootcampspot.com/
+UCB-Coding-Bootcamp (2021-2022). Module 5. UC Berkeley Fintech Extension. https://courses.bootcampspot.com/
 
 API 2022. https://data.nasdaq.com/, https://app.alpaca.markets
