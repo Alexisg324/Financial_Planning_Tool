@@ -44,6 +44,17 @@ As a User, I want to financially plan for retirement and emergencies by visualiz
 
 ![](https://github.com/Alexisg324/Financial_Planning_Tool/blob/main/Financial_Planning/Images/5-4-monte-carlo-histogram.png)
 
+## Results/Answer Questions
+
+**Answer** 
+Using the current value of only the stock and bond portion of the member's portfolio and the summary statistics that you generated from the new Monte Carlo simulation, what are the lower and upper bounds for the expected value of the portfolio (with the new weights) with a 95% confidence interval?
+
+1.0 is the high and low bound. 119.66 and 334 could be possible the price bound.
+
+Will weighting the portfolio more heavily toward stocks allow the credit union members to retire after only 10 years? 
+
+According to the data,they will have $60,688.70 in their portfolio.  To retire, I would suggest that the client have more, perhaps 6 figures to retire.  It depends on the client and how comfortabe they can live off of $60k. 
+
 ## Contributers
 
 Alexis Rose Garcia 
